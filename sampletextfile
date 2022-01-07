@@ -1,14 +1,11 @@
 This is a demo git file to push and commit in remote repository.
-<<<<<<< HEAD
 this is a line added from local workstation.
 alpha beta gamma hexa octa
 editing sampletext file for testing git 
 This is a line added from local workstation.
 Alpha beta gamma hexa octa 
 we trying to commit
-
->>>>>>> f11bbbfd4be00d2b9ff9db0e8cd2969f29f94618
-
+second commit
 
 
 
